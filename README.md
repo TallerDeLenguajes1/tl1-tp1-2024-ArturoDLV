@@ -13,4 +13,4 @@ Primer trabajo practico de la materia "Taller de Lenguajes 1".
     * Se pueden ignorar archivos especificos colocando su nombre y extension, como por ejemplo "ignorar.txt".
     * Se pueden ignorar tipos de archivos, en cuyo caso cualquier archivo de dicho tipo, indistinto del nombre, sera ignorado. Se usa de la siguiente manera: '*.tipo' por ejemplo "*.exe" para ignorar todo ejecutable que se cree.
     * Se pueden colocar comentarios para guiarnos si la lista de archivos a ignorar es muy grande. Toda linea que comienze con '#' sera considerada un comentario.
-    * Por ultimo, se puede colocar un signo de admiracion al inicio para asegurarse que un archivo **NO** ser ignorado, por ejemplo "!*.c".
+    * Por ultimo, se puede colocar un signo de admiracion al inicio para asegurarse que un archivo **NO** sea ignorado, por ejemplo "!*.c" para que todos los codigos en 'C' sean incluidos siempre.
